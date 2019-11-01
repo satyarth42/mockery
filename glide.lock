@@ -1,0 +1,12 @@
+hash: d36635dac1b99a7aa11295615efe3ba6b007dd5ca7de30f89082303ab58b3a66
+updated: 2019-11-01T23:51:58.315053+05:30
+imports:
+- name: github.com/gorilla/mux
+  version: 00bdffe0f3c77e27d2cf6f5c70232a2d3e4d9c15
+- name: github.com/jinzhu/gorm
+  version: 81c17a7e2529c59efc4e74c5b32c1fb71fb12fa2
+- name: golang.org/x/crypto
+  version: 8986dd9e96cf0a6f74da406c005ba3df38527c04
+  subpackages:
+  - bcrypt
+testImports: []

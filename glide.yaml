@@ -1,0 +1,9 @@
+package: github.com/satyarth42/mockery
+import:
+- package: github.com/gorilla/mux
+  version: v1.7.3
+- package: github.com/jinzhu/gorm
+  version: v1.9.11
+- package: golang.org/x/crypto
+  subpackages:
+  - bcrypt

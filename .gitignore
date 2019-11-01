@@ -10,3 +10,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Removing `vendor` folder
+vendor/*
+
+#Remove `.idea` folder
+.idea/*
